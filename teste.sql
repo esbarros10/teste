@@ -1,1 +1,1 @@
-select 'teste'
+select 'teste 2'
